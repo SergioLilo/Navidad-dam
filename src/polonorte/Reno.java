@@ -30,7 +30,7 @@ public class Reno {
         return "mmmmmiiiiii chus chus peeeeerrrr";
     }
 
-    
+  //so
     public void correr(String direccion){
         //TODO terminar
     }
